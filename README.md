@@ -5,6 +5,7 @@
 - 🔭 I’m currently working at IIT Kanpur on [Development of Bio-inspired robot using Reinforcement Learning](https://www.neuraldynamics.in/)
 
 - 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 Philosophy **#Think Unthinkable**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dharambir-poddar-63b159159/](https://www.linkedin.com/in/dharambir-poddar-63b159159/)
 
