@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dharambir-poddar-63b159159/](https://www.linkedin.com/in/dharambir-poddar-63b159159/)
 
-- 💬 Ask me about **Bio-inspired Robotics, StartUp**
+- 💬 Ask me about **Bio-inspired Robotics,FinTech, StartUp**
 
 - 📫 How to reach me **dpoddar@iitk.ac.in**
 
