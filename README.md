@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dharambir</h1>
-<h3 align="center">Master's Student @ IIT Kanpur</h3>
+<h3 align="center">Data Scientist, Alumni of IIT Kanpur</h3>
 <img align="right" alt="coding" width="200" src="https://production-media.paperswithcode.com/datasets/OpenAI_Gym-0000000029-0f1bfd0a.gif">
 
 - 🔭 I’m currently working at IIT Kanpur on [Development of Bio-inspired robot using Reinforcement Learning](https://www.neuraldynamics.in/)
